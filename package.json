@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "axios": "^0.21.1",
-    "express": "^4.18.2",
+    "express": "^4.21.2",
     "url": "^0.11.0"
   },
   "proxy": "http://api.coxauto-interview.com/",
